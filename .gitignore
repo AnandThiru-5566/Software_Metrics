@@ -11,7 +11,7 @@ __pycache__/
 
 # Coverage generated files
 .coverage
-coverage.xml
+
 htmlcov/
 
 # CatBoost generated folder
