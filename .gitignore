@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Testing
+.pytest_cache/
+
+# Coverage generated files
+.coverage
+coverage.xml
+htmlcov/
+
+# CatBoost generated folder
+catboost_info/
+
+# Trained models
+*.pkl
+*.joblib
+
+# Generated Excel output
+churn_predictions.xlsx
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
